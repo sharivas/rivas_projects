@@ -1,0 +1,5 @@
+These python scripts were created to organize my resources from Cybersecurity boot camp. 
+
+create_dirs.py - creates directories and subdirectories organized by week
+copy_activity.py - identifies files in my Downloads folder to move them into my class notes directories
+copy_slide.py - identifies files with the extension .ppt/.pptx to move them into my class notes directories
